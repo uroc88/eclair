@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: eclair
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: imai-1403
+Implementation-Vendor-Id: com.uroc88
+Build-Jdk: 1.8.0_77
+Implementation-URL: http://projects.spring.io/spring-boot/eclair/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
